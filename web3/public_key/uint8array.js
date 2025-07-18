@@ -28,4 +28,4 @@ function base64(uint8array){
 
 }
 console.log(base64(new Uint8Array([99,100,101,102,103,104])))
-console.log(base64("hello messi 123456 12346 123345 1234123"))
+console.log(base64("hello messi 0999876123456 12346 123345 1234123"))
